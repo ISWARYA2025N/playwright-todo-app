@@ -34,7 +34,7 @@ playwright-todo-app/
 
 ## ▶️ How to Run the Tests
 
-### 1️⃣ Install dependencies
+1️⃣ Install dependencies
 npm install
 2️⃣ Run Playwright tests
 npx playwright test
